@@ -1,2 +1,5 @@
 # animais-fantasticos
- Criação de página web dinânima utilizando HTML5, CSS (grid e flexbox) e Javascript ES6.
+
+Criação de página web dinânima utilizando HTML5, CSS (grid e flexbox) e Javascript ES6.
+
+PROJETO EM CONSTRUÇÃO...
