@@ -2,20 +2,20 @@
 <html lang="pt-BR">
 
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script> document.documentElement.className += ' js'; </script>
-  <link rel="stylesheet" href="css/style.css">
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
-
   <title>Animais Fantásticos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
+  <script>document.documentElement.className += ' js';</script>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 
 <body>
   <div class="grid-container">
     <nav class="menu" data-menu="suave">
-      <ul>
+      <button data-menu="button" aria-expanded="false" aria-controls="menu">Menu</button>
+      <ul data-menu="list" id="menu">
         <li><a href="#animais">Animais</a></li>
         <li data-dropdown>
           <a href="sobre.html">Sobre</a>
