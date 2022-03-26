@@ -1,0 +1,22 @@
+{
+  "name": "animais-fantasticos",
+  "version": "1.0.0",
+  "description": "Criação de página web dinânima utilizando HTML5, CSS (grid e flexbox) e Javascript ES6.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camila-kunitz/animais-fantasticos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camila-kunitz/animais-fantasticos/issues"
+  },
+  "homepage": "https://github.com/camila-kunitz/animais-fantasticos#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
